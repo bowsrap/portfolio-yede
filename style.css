@@ -1,0 +1,49 @@
+#contenu{
+	/*text-align: center;*/
+	background-color: green;
+}
+#nav{
+     position:relative;
+
+}
+.navbar img{
+	border-radius: 50%;
+}
+#form{
+	color: red;
+	margin-top: 50px;
+    border:solid;
+    font:color:pink;
+    margin-right: 70px;
+    
+}
+.navbar{
+     background-color: indigo !important;
+     text-decoration: none !important;
+}
+body{
+	border-radius: 70px;
+	
+	margin-right: 250px;
+	margin-left: 250px;
+	margin-top: 250px;
+	margin-bottom: 300px;
+	padding-left: 50px;
+	opacity: all;
+	padding-bottom: 50px;
+
+	text-decoration: none;
+	color:violet;
+
+
+
+}
+#navbar{
+     color:violet;
+     border:solid;
+}
+
+
+	
+
+
